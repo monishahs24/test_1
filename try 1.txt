@@ -1,3 +1,5 @@
 hello
-8:59hrs now
+8:23hrs now
 let us revise some git concept
+class 302
+let us start
